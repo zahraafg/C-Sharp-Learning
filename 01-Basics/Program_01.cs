@@ -1,5 +1,7 @@
 using System;
 
+/* Mövzu: Console output */
+
 namespace MyFirstProgram
 {
     internal class Program_01
