@@ -1,5 +1,7 @@
 using System;
 
+/* Mövzu: Variables */
+
 namespace MyFirstProgram
 {
     internal class Program_03
