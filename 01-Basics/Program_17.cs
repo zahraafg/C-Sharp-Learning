@@ -1,5 +1,7 @@
 using System;
 
+/* Mövzu: Modulus Operator (%) / Compound Assignment */
+
 namespace MyFirstProgram
 {
     internal class Program_17
