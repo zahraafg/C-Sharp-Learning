@@ -1,5 +1,7 @@
 using System;
 
+/* Mövzu: Escape sequences */
+
 namespace MyFirstProgram
 {
     internal class Program_02
