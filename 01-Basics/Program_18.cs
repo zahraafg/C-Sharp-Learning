@@ -1,5 +1,7 @@
 using System;
 
+/* Mövzu: Math.Abs() */
+
 namespace MyFirstProgram
 {
     internal class Program_18
