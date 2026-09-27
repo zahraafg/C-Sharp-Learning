@@ -1,5 +1,7 @@
 using System;
 
+/* Mövzu: Math.Sqrt() */
+
 namespace MyFirstProgram
 {
     internal class Program_20
