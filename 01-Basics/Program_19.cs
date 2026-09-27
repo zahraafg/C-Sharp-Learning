@@ -1,5 +1,7 @@
 using System;
 
+/* Mövzu: Math.Pow() */
+
 namespace MyFirstProgram
 {
     internal class Program_19
