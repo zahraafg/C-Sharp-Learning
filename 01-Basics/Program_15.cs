@@ -1,5 +1,7 @@
 using System;
 
+/* Mövzu: Compound Assignment / Multiplication */
+
 namespace MyFirstProgram
 {
     internal class Program_15
