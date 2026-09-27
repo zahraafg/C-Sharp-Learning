@@ -1,5 +1,7 @@
 using System;
 
+/* Mövzu: const keyword / Constants */
+
 namespace MyFirstProgram
 {
     internal class Program_05
