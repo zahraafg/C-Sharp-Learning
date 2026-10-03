@@ -1,6 +1,6 @@
 using System;
 
-/* Mövzu: Random */
+/* Mövzu: Random.Next() */
 
 namespace MyFirstProgram
 {
